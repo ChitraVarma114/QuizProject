@@ -1,0 +1,11 @@
+Software Requirements:
+•	Java JDK 8 or above
+•	MySQL Workbench / Server
+•	JDBC Connector (MySQL Connector/J)
+•	IDE: Eclipse / IntelliJ IDEA / Visual Studio Code, Command Line Interface (CLI)
+•	Operating System: Windows / Linux
+
+Hardware Requirements:
+•	Processor: Intel i3 or higher
+•	RAM: Minimum 2 GB
+•	Storage: Minimum 500 MB
